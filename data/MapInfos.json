@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Main","order":11,"parentId":0,"scrollX":396,"scrollY":383.5},
-{"id":2,"expanded":true,"name":"SnowVillage","order":1,"parentId":0,"scrollX":1370.3999999999999,"scrollY":1540.8},
+{"id":2,"expanded":true,"name":"SnowVillage","order":1,"parentId":0,"scrollX":1370.3999999999999,"scrollY":859.1999999999999},
 {"id":3,"expanded":false,"name":"老奶奶家","order":9,"parentId":2,"scrollX":1389.6,"scrollY":859.1999999999999},
 {"id":4,"expanded":false,"name":"某處","order":8,"parentId":2,"scrollX":1389.6,"scrollY":859.1999999999999},
 {"id":5,"expanded":true,"name":"溫暖的家1F","order":2,"parentId":2,"scrollX":1389.6,"scrollY":859.1999999999999},
